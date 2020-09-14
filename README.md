@@ -64,7 +64,11 @@ However, a user can decide to go to the visualization section directly without g
 
 In a similar way, the user can decide to select the data cleaning section  where the user will be enable to tidy his or her dataset with just a click.
 
-When the User selects Machine Learning, ADS-Studio will automatically clean the dataset by removing all null rows and then performs label encoding on all the categorical columns. It then asks the user to select the target column and also the feature columns.The user has the option to enter the test size and the random state.It then presents the user with the option to select the type of model he or she wishes to build based on the dataset. That is the following models:
+When the User selects Machine Learning, ADS-Studio will automatically clean the dataset by removing all null rows and then performs label encoding on all the categorical columns. It then asks the user to select the target column and also the feature columns.The user has the option to enter the test size and the random state.
+
+![4](https://user-images.githubusercontent.com/68768460/93090789-cc337480-f68c-11ea-8272-ef5c35a3e136.gif)
+
+It then presents the user with the option to select the type of model he or she wishes to build based on the dataset. That is the following models:
 *    Regression
 *    Classification
 *    Clustering
