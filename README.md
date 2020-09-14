@@ -41,6 +41,9 @@ When the user decides to select EDA, the studio will allow the user to input his
 *    show null values
 
 when the user selects any of the options above, the result is automatically generated. More EDA options will be added in a short while.
+
+![2](https://user-images.githubusercontent.com/68768460/93088719-d011c780-f689-11ea-8754-f4f7ff5865b8.gif)
+
 \
 \
 Likewise when the user selects visualization , he or she will be allowed to visuallize a number of graphs based on the option he or she chooses. Some of the graphs the user can visualize are as follows:
