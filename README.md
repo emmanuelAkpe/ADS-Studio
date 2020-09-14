@@ -78,8 +78,21 @@ When the user selects Regression, the ADS-Studio automatically generates the reg
 ![4ewqhv](https://user-images.githubusercontent.com/68768460/93092268-bf178500-f68e-11ea-9cad-546716c6b31a.gif)
 
 
+ However, when the user selects Classification the user is presented with the following models to select from:
+ *    SVC
+ *    Decision Tree
+ *    Random Forest
+ *    KNN
+ *    Naive Bayes
  
+ When the user selects aany of the above models, ADS-Studio automatically generates classification results.
+    ![6](https://user-images.githubusercontent.com/68768460/93094928-09e6cc00-f692-11ea-831b-1870c1493c2d.gif)
     
+  The user can then decide to view the follwing metrics with their corresponding results:
+  *    Confusion Matrix
+  *    ROC- Curve
+  *    Precision -Recall Curve.
+
 
 
 
