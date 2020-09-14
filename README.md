@@ -95,6 +95,24 @@ When the user selects Regression, the ADS-Studio automatically generates the reg
   *    Precision -Recall Curve.
   *    Make predictions 
 
+![7](https://user-images.githubusercontent.com/68768460/93096341-c8efb700-f693-11ea-883a-fa893d62629d.gif)
+
+### Way Forward 
+We seek to add more features in the future and also to make the interface more user friendly.
+
+### Acknowledgement 
+Azubi Africa\
+Microsoft4Afrika\
+Samuel Manu
+Richmond Chris-Koka\
+Sharon Bosire
+
+### Collaborators
+Emmanuel Akpe\
+Emmanuel Osabutey\
+Alfred Ametepey
+
+
 
 
 
