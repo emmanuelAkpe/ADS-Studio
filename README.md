@@ -73,7 +73,9 @@ It then presents the user with the option to select the type of model he or she 
 *    Classification
 *    Clustering
 
-When the user selects Regression, the ADS-Studio automatically generates the regression results. The User is then asked to select a number of visualizations based on the metrics generated.(The current Regression model is a Linear Model. Other types of Regression models will be added in short while).
+When the user selects Regression, the ADS-Studio automatically generates the regression results. The User is then asked to select a number of visualizations based on the metrics generated.(The current Regression model is a Linear Model. Other types of Regression models will be added in short while).The User can then visualize the Regression metrics by selecting Visualize Metric results. Also the user can then input a new dataset without the target column to make inference.
+
+![4ewqhv](https://user-images.githubusercontent.com/68768460/93092268-bf178500-f68e-11ea-9cad-546716c6b31a.gif)
 
 
  
