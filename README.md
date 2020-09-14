@@ -86,12 +86,14 @@ When the user selects Regression, the ADS-Studio automatically generates the reg
  *    Naive Bayes
  
  When the user selects aany of the above models, ADS-Studio automatically generates classification results.
+ 
     ![6](https://user-images.githubusercontent.com/68768460/93094928-09e6cc00-f692-11ea-831b-1870c1493c2d.gif)
     
-  The user can then decide to view the follwing metrics with their corresponding results:
+  The user can then decide to view the follwing metrics with their corresponding results and also make predictions with a dataset without a target column:
   *    Confusion Matrix
   *    ROC- Curve
   *    Precision -Recall Curve.
+  *    Make predictions 
 
 
 
