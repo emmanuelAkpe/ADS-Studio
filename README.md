@@ -59,6 +59,9 @@ When the user selects the preferred option above, the graph is automatically gen
 
 However, a user can decide to go to the visualization section directly without going through the EDA section. Also, a dataset uploaded by a user at the EDA section remains in memory and can be used by the user in other section without necessarily reloading.
 
+![3](https://user-images.githubusercontent.com/68768460/93089615-11ef3d80-f68b-11ea-8842-e72d89c9456d.gif)
+
+
 In a similar way, the user can decide to select the data cleaning section  where the user will be enable to tidy his or her dataset with just a click.
 
 When the User selects Machine Learning, ADS-Studio will automatically clean the dataset by removing all null rows and then performs label encoding on all the categorical columns. It then asks the user to select the target column and also the feature columns.The user has the option to enter the test size and the random state.It then presents the user with the option to select the type of model he or she wishes to build based on the dataset. That is the following models:
