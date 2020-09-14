@@ -103,7 +103,7 @@ We seek to add more features in the future and also to make the interface more u
 ### Acknowledgement 
 Azubi Africa\
 Microsoft4Afrika\
-Samuel Manu
+Samuel Manu\
 Richmond Chris-Koka\
 Sharon Bosire
 
