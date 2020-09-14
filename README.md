@@ -25,7 +25,8 @@ The ADS-Studio enables a user to perform the following functions with just a cli
 ### Detailed scope of ADS-Studio
 The ADS-Studio has 5 sections, which are explained below:
 * The first section is the Home Page which gives a welcome address to the users
-![]()
+
+
 * EDA(Exploratory Data Analysis): It curently enables a user to perform the following EDA operations with just a click.
     1. Show shape
     2. show columns
