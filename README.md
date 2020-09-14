@@ -25,6 +25,7 @@ The ADS-Studio enables a user to perform the following functions with just a cli
 ### Detailed scope of ADS-Studio
 The ADS-Studio has 5 sections, which are explained below:
 * The first section is the Home Page which gives a welcome address to the users
+
 ![4ewjfq](https://user-images.githubusercontent.com/68768460/93087222-ca1ae700-f687-11ea-81a7-7e751c2f30c9.gif)
 
 
@@ -34,6 +35,8 @@ The ADS-Studio has 5 sections, which are explained below:
     3. show summary 
     4. Value counts
     5. show null values
+    
+    
 * Data Cleaning section that enables users to clean their dataset
 * Visualization:
     This section enables the users to visualize their dataset in order to make       insightful decisions. It has the following subsections;
