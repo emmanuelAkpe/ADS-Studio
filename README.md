@@ -22,39 +22,6 @@ The ADS-Studio enables a user to perform the following functions with just a cli
 * Python
 * Streamlit 
 
-### Detailed scope of ADS-Studio
-The ADS-Studio has 5 sections, which are explained below:
-* The first section is the Home Page which gives a welcome address to the users
-
-![4ewjfq](https://user-images.githubusercontent.com/68768460/93087222-ca1ae700-f687-11ea-81a7-7e751c2f30c9.gif)
-
-
-* EDA(Exploratory Data Analysis): It curently enables a user to perform the following EDA operations with just a click.
-    1. Show shape
-    2. show columns
-    3. show summary 
-    4. Value counts
-    5. show null values
-    
-    
-* Data Cleaning section that enables users to clean their dataset
-* Visualization:
-    This section enables the users to visualize their dataset in order to make       insightful decisions. It has the following subsections;
-    1.    pie chart
-    2.    correlation matrix
-    3.    Histogram
-    4.    Pairplot
-    5.    Scatter Plot
-    6.    Bar graph
-* Machine Learning: This section enables one to build machine learning models with just a click. It has subsections like:
-1.    Regression 
-2.    Classification\
-         SVC(support vector classifier)\
-         KNN(K-Nearest Neighbor )\
-         Decision Tree\
-         Random Forest\
-         Naive Bayes
-3.    Clustering
 
 ### Work Flow in ADS-Studio
 This section describes how an individual will be able to use the ADS-Studio to work on his or her dataset.The flow begins when the user navigates to the Home page. The user can browse through the available list of functions in the ADS- studio at the upper-left side of the studio and then selects one of the following functions:
@@ -62,6 +29,8 @@ This section describes how an individual will be able to use the ADS-Studio to w
 *    Data Cleaning
 *    Visualization
 *    Machine Learning
+
+![4ewjfq](https://user-images.githubusercontent.com/68768460/93087222-ca1ae700-f687-11ea-81a7-7e751c2f30c9.gif)
 
 When the user decides to select EDA, the studio will allow the user to input his or her preferred dataset(csv, xls, txt, json) and then will be presented with the options below:
 
