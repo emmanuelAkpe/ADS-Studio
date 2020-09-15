@@ -108,9 +108,9 @@ Richmond Chris-Koka\
 Sharon Bosire
 
 ### Collaborators
-Emmanuel Akpe\
-Emmanuel Osabutey\
-Alfred Ametepey
+Emmanuel Akpe(emmanuelakpe1@gmail.com)\
+Emmanuel Osabutey(emmanuel.osabutey@azubiafrica.org)\
+Alfred Ametepey(alfred.ametepey@azubiafrica.org)
 
 
 
